@@ -33,7 +33,7 @@ B.E. Computer Science (AI & ML) @ CBIT Hyderabad · CGPA 9.25 · Class of 2027
 I build **retrieval-based and agentic AI systems** and I care about measuring them honestly. Most of my work sits where machine learning meets backend engineering: RAG pipelines, LLM evaluation, tool-calling agents, and well-tested Python APIs.
 
 - 🔬 **Currently:** AI Drug Discovery Intern at **PSPM Technologies**, building an evaluation framework that tests whether a biomedical LLM can interpret molecular-dynamics results through MCP-based tool calling.
-- 🛠️ **Also:** AI Engineering Intern at **CADRA**, working on an interview decision engine and a trend-intelligence data pipeline.
+- 🛠️ **Also:** AI Engineering Intern at **CADRA**, worked on an interview decision engine and a trend-intelligence data pipeline.
 - 📝 **Research:** Published in **IEEE Xplore** (ICoECIT 2026); papers accepted at **OCIT 2026** and **UPCON 2026**.
 - 🎯 **Looking for:** AI/ML engineering and software engineering opportunities.
 
